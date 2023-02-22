@@ -78,10 +78,8 @@ select {
 }
 
 
-
-/* --------------------- */
 /*   General Styling     */
-/* --------------------- */
+
 
 .flex {
     display: flex;
@@ -129,9 +127,9 @@ a:link {
 
 
 
-/* --------------------- */
+
 /*   Header Styling      */
-/* --------------------- */
+
 
 /* sets a margin at the start and end of the whole navbar to compress it a bit */
 .navbar {
@@ -191,9 +189,8 @@ a:link {
   border-radius: 50%;
 }
 
-/* --------------------- */
+
 /*   Projects Styling    */
-/* --------------------- */
 
 
 #card-wrapper {
@@ -202,9 +199,8 @@ a:link {
 
 
 
-/* --------------------- */
 /*   Skills Styling      */
-/* --------------------- */
+
 
 
 
@@ -227,9 +223,7 @@ a:link {
 }
 
 
-/* --------------------- */
 /*   Footer Styling      */
-/* --------------------- */
 
 #footer-btn a i {
   transition: all 350ms ease-in-out;
